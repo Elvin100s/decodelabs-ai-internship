@@ -40,6 +40,26 @@ python3 ocr.py                  # generates and reads the sample image
 python3 ocr.py my_photo.png     # or read your own image
 ```
 
+Actual output (Tesseract 5.5.0):
+
+```
+Input: sample_input.png (640x220 px)
+Pre-processed image saved to preprocessed.png (grayscale -> blur -> Otsu)
+
+=== Recognized text (confidence >= 80%) ===
+DECODELABS PROJECT 4 OCR PIPELINE ONLINE
+
+Per-word confidence:
+  [PASS] DECODELABS      92%
+  [PASS] PROJECT         95%
+  [PASS] 4               95%
+  [PASS] OCR             96%
+  [PASS] PIPELINE        96%
+  [PASS] ONLINE          96%
+
+Validated mean confidence: 95.0%
+```
+
 ## Key skills demonstrated
 
 Using pre-trained AI libraries (transfer learning mindset: download the degree,
