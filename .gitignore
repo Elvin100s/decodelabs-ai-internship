@@ -1,0 +1,20 @@
+# Course material (too large for git)
+*.pdf
+
+# Generated outputs (recreated on every run)
+elbow_plot.png
+confusion_matrix.png
+sample_input.png
+preprocessed.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store

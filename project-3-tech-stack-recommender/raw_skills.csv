@@ -1,0 +1,21 @@
+role,skills
+Data Scientist,python sql machine learning statistics pandas data analysis visualization
+Machine Learning Engineer,python machine learning deep learning tensorflow pytorch mlops deployment
+Data Analyst,sql excel data analysis visualization tableau statistics reporting
+Data Engineer,python sql spark etl pipelines airflow cloud data warehousing
+DevOps Engineer,aws docker kubernetes ci cd linux automation terraform monitoring
+Cloud Architect,aws azure cloud computing networking security architecture automation
+Backend Developer,java python sql apis microservices databases rest spring
+Frontend Developer,javascript html css react typescript ui design responsive
+Full Stack Developer,javascript python react node sql apis html css
+Mobile Developer,kotlin swift flutter android ios mobile ui apis
+Cybersecurity Analyst,security networking linux penetration testing firewalls incident response monitoring
+AI Research Engineer,python deep learning pytorch mathematics research nlp computer vision
+NLP Engineer,python nlp transformers machine learning text processing deep learning
+Computer Vision Engineer,python opencv deep learning image processing computer vision pytorch
+Database Administrator,sql databases backup performance tuning security postgresql oracle
+Site Reliability Engineer,linux monitoring automation kubernetes incident response python cloud
+QA Automation Engineer,python selenium testing automation ci cd quality assurance
+Blockchain Developer,solidity smart contracts ethereum cryptography javascript web3
+Game Developer,c# unity c++ graphics game design physics 3d
+Embedded Systems Engineer,c c++ microcontrollers rtos hardware electronics firmware
